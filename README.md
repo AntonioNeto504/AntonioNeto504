@@ -1,6 +1,6 @@
 <img src="banner.gif" width="325px" align="right">
 
-# 👋 Bem-vindo ao meu perfil!
+# Bem-vindo ao meu perfil!
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em **Java, Python e Análise de Dados**.
 
@@ -26,3 +26,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em **Java, Python e An�
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-cust%C3%B3dio-neto-03a400245/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ <a href="mailto:antoniocustorioneto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>

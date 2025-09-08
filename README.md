@@ -40,12 +40,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com forte atuação em <b>Análi
 - 🔹 <b>Data Analytics</b> → Manipulação de dados com <b>Pandas</b>, <b>SQL</b> e <b>estatística</b> para análises profundas  
 - 🔹 <b>Web & Deploy</b> → Criação de aplicações web modernas e <b>deploy com Docker</b>  
 
----
-
-<sub>Adicione aqui seus projetos favoritos para mostrar seu trabalho!</sub>
-
----
-
 ## 🌎 Onde me encontrar
 
 <div id="badges">

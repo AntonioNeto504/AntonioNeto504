@@ -42,11 +42,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com forte atuação em <b>Análi
 
 ---
 
-## 🏆 Projetos em Destaque
-
-- [Nome do Projeto 1](https://github.com/AntonioNeto504/Projeto1) — breve descrição ou destaque
-- [Nome do Projeto 2](https://github.com/AntonioNeto504/Projeto2) — breve descrição ou destaque
-
 <sub>Adicione aqui seus projetos favoritos para mostrar seu trabalho!</sub>
 
 ---

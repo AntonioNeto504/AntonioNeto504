@@ -51,7 +51,7 @@ Experiência em modelagem relacional e dimensional (Star Schema, Snowflake)
 
 ### 📊 BI & Visualização de Dados
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" height="50" alt="Power BI"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau"/>
 </div>
@@ -159,18 +159,6 @@ Orquestração de pipelines de dados:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioNeto504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNeto504&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioNeto504&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 💡 Sobre Mim
 

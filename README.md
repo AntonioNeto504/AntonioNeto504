@@ -52,7 +52,6 @@ Experiência em modelagem relacional e dimensional (Star Schema, Snowflake)
 ### 📊 BI & Visualização de Dados
 <div align="left">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" height="50" alt="Power BI"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau"/>
 </div>
 

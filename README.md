@@ -19,7 +19,7 @@ Transformo dados em insights acionáveis, com foco em análise financeira e cont
 ## Áreas de Atuação
 
 - Dashboards e indicadores estratégicos
-- Análise financeira (DRE, margens, KPIs)
+- Análises financeiras e Contábeis (DRE, margens, KPIs)
 - Tratamento e consolidação de dados
 - Modelagem de dados (Star Schema, Snowflake)
 
